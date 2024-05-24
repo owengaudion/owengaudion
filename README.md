@@ -2,7 +2,9 @@
 
 I am the Technical SEO Account Manager at [boxChilli Digital Marketing](https://www.boxchilli.com/).
 
-The internet should be an accessible place for all, this is my newest and current focus with everything we produce. 
+The internet should be an accessible place for all, this is my newest and current focus with everything produced. 
+
+In my spare time you will see me supporting the greatest team on the South Coast - Pompey!
 
 ## My Socials 📱
 
