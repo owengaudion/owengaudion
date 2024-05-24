@@ -1,6 +1,12 @@
 ## Hi there 👋
 
-I am the Technical SEO Account Manager at [boxChilli Digital Marketing](https://www.boxchilli.com/)
+I am the Technical SEO Account Manager at [boxChilli Digital Marketing](https://www.boxchilli.com/).
+
+The internet should be an accessible place for all, this is my newest and current focus with everything we produce. 
+
+## My Socials 📱
+
+[![Twitter](https://img.shields.io/badge/twitter-%2308a0e9.svg?logo=Instagram&logoColor=white)](https://x.com/OwenGaudion) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/owen-gaudion-678781112/) 
 
 <!--
 **owengaudion/owengaudion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
