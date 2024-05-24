@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am the Technical SEO Account Manager at [[boxChilli Digital Marketing](https://www.boxchilli.com/)
+I am the Technical SEO Account Manager at [boxChilli Digital Marketing](https://www.boxchilli.com/)
 
 <!--
 **owengaudion/owengaudion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
